@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2L9CIotpl5MqFxSVHB4PI0FFehlqvghhPA6ljSghT5w=",
+  "Source": "Ni.Alfacredit.core.Manager.Api",
+  "BasePath": "_content/Ni.Alfacredit.core.Manager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ni.Alfacredit.core.Manager.Api.props" />
+</Project>
