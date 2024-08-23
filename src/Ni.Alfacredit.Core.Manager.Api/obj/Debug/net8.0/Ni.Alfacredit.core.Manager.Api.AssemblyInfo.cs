@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ni.Alfacredit.core.Manager.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd86b76e25ee76e53f6a593cc6a6e70a0f7d428c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ni.Alfacredit.core.Manager.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ni.Alfacredit.core.Manager.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,3 +10,4 @@ C:\Users\Angel\Desktop\API Alfacredit\src\Domain\obj\Debug\net8.0\refint\Domain.
 C:\Users\Angel\Desktop\API Alfacredit\src\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Angel\Desktop\API Alfacredit\src\Domain\obj\Debug\net8.0\ref\Domain.dll
 C:\Users\Angel\Desktop\API Alfacredit\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\API Alfacredit\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json

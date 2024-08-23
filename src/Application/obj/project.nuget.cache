@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zvv8kpBQnLw=",
+  "dgSpecHash": "Gq9iP9VKWuU=",
   "success": true,
   "projectFilePath": "C:\\Users\\Angel\\Desktop\\API Alfacredit\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Angel\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\awssdk.core\\4.0.0-preview\\awssdk.core.4.0.0-preview.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.0-preview\\awssdk.dynamodbv2.4.0.0-preview.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Angel\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\Angel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\Angel\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",

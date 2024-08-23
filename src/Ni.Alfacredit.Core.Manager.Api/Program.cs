@@ -13,13 +13,25 @@ builder.Services.AddInfrastructureServices();
 
 var app = builder.Build();
 
+// Swagger Configuration
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI(cfg => 
     {
-        cfg.SwaggerEndpoint("/swagger/v1/swagger.json", "Alfacredit-Core-Manager-Api");
-        cfg.RoutePrefix = string.Empty;
+        cfg.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+        cfg.RoutePrefix = "swagger/docs";
+    });
+
+    app.Use(async (context, next) =>
+    {
+        if (context.Request.Path.Equals("/swagger", StringComparison.OrdinalIgnoreCase) ||
+            context.Request.Path.Equals("/swagger/docs/", StringComparison.OrdinalIgnoreCase))
+        {
+            context.Response.Redirect("/swagger/docs/index.html");
+            return;
+        }
+        await next();
     });
 }
 
